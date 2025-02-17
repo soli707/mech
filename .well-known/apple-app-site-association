@@ -6,9 +6,8 @@
         "appIDs": [
           "9F9PL633PN.com.Mechanic.MyMechanicapp"
         ],
-        "paths": [
-          "*"
-        ],
+        "paths": ["/success", "/cancel"],
+
         "components": [
           {
             "/": "/*"
